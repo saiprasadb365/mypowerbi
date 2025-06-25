@@ -10,7 +10,7 @@ Please bookmark this repo and refer to it throughout the training. All updates a
 
 ## 📂 Folder Structure
 Day [x]/ – Data wise content<br>
-Datasets/ – Raw and cleaned data files<br>
+Datasets/ – Sample datasets<br>
 Guides/ – Tips, FAQs, and walkthroughs<br>
 
 Use the datasets for exercises shared during sessions.
