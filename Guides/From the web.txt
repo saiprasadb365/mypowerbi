@@ -1,0 +1,11 @@
+Power BI
+========
+
+Power BI documentation: https://learn.microsoft.com/en-us/power-bi/
+
+Power BI Blog: https://powerbi.microsoft.com/en-us/blog/
+
+Guy in a cube: https://www.youtube.com/@GuyInACube
+
+PL-300 Exam: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate
+
